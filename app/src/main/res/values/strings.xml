@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BatteryCare Pro</string>
+    <string name="notification_channel_name">تنبيهات حماية البطارية الذكية</string>
+    <string name="notification_channel_desc">مراقبة حرارة البطارية وسرعة الشحن وتنبيه الوصول إلى 80%</string>
+    <string name="service_monitoring_title">BatteryCare Pro نشط في الخلفية</string>
+    <string name="service_monitoring_desc">جاري فحص حرارة البطارية وجهد الشحن اللحظي</string>
+    <string name="tab_dashboard">الرئيسية</string>
+    <string name="tab_diagnostics">تشخيص الكيرنل</string>
+    <string name="tab_protection">الحماية الذكية</string>
+    <string name="tab_tips">نصائح علمية</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "BatteryCare Pro",
+  "description": "فحص وتحليل متقدم لصحة البطارية، تشخيص مسارات كيرنل النظام، وتنبيهات الحماية الحرارية الذكية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
